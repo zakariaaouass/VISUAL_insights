@@ -1,0 +1,2 @@
+[database]
+con = mysql+mysqlconnector://root:@localhost/users

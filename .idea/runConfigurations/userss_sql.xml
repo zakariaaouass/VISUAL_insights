@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="userss.sql" type="DatabaseScript" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/userss.sql" />
+    <script-mode>FILE</script-mode>
+    <method v="2" />
+  </configuration>
+</component>
