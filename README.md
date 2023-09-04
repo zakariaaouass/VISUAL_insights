@@ -1,5 +1,5 @@
 Visual Insights :
-Implementation of a hybrid CNN-LSTM architecturearchitecture for electricity price prediction
+Implementation of a hybrid CNN-LSTM architecture for electricity price prediction
 
 This project aims to develop  an application called Visual insights that uses deep learning model for electricity price prediction based on a hybrid CNN-LSTM architecture. The goal is to forecast prices for a multivariate time series, leveraging the power of both Convolutional Neural Networks (CNNs) and Long Short-Term Memory networks (LSTMs) to capture spatial and temporal patterns in the data.
 
